@@ -1,0 +1,16 @@
+storeid,storename,customerID,firstname,revenue,ranking
+S001,"MegaMart Jimenezborough",C157,Connie,22986.499999999996,1
+S001,"MegaMart Jimenezborough",C110,Travis,20360.62,2
+S001,"MegaMart Jimenezborough",C125,Kimberly,19397.89,3
+S002,"MegaMart Peckmouth",C082,Amy,21705.96,1
+S002,"MegaMart Peckmouth",C042,Anna,20653.45,2
+S002,"MegaMart Peckmouth",C077,Matthew,20278.850000000002,3
+S003,"MegaMart New Michele",C199,Juan,26112.380000000005,1
+S003,"MegaMart New Michele",C122,Amy,22307.469999999998,2
+S003,"MegaMart New Michele",C076,Phyllis,21265.76,3
+S004,"MegaMart Brianahaven",C068,Alexandra,26141.429999999997,1
+S004,"MegaMart Brianahaven",C151,Dawn,23649.41,2
+S004,"MegaMart Brianahaven",C140,Stacy,21566.21,3
+S005,"MegaMart Johnmouth",C177,Anthony,26110.17,1
+S005,"MegaMart Johnmouth",C155,Jill,22018.93,2
+S005,"MegaMart Johnmouth",C106,Kevin,19453.93,3

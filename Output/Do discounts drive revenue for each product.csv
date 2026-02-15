@@ -1,0 +1,7 @@
+category,discount_flag,total_revenue,sold_count
+Electronics,discounted,2065763.8900000001,1675
+Fashion,discounted,1972535.0199999986,2021
+Electronics,"no discount",594039.66,483
+Fashion,"no discount",669828.6300000002,655
+Groceries,discounted,504620.7600000005,704
+Groceries,"no discount",191584.09000000003,252
